@@ -15,3 +15,5 @@ Hello, My name is Henry, you might know me from our middle school. I made this w
 [Minecraft for the minecraft kids fullscreen unblocked](https://cyclonehacks-git-main-cyclonehacks.vercel.app/Pages/games/Minecraft/)
 
 [Cookie Clicker fullscreen unblocked](https://cyclonehacks-git-main-cyclonehacks.vercel.app/Pages/games/cookie-clicker/)
+
+[1v1 lol fullscreen unblocked](https://holy-unblocker--hankypoo7.repl.co/service/hvtrs8%2F-1t1%2Clml-)
