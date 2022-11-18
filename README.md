@@ -3,3 +3,5 @@ Hello, My name is Henry, you might know me from our middle school. I made this w
 [Slope fullscreen unblocked](https://slope-game.hankypoo71.repl.co/)
 
 [Tetris fullscreen unblocked](https://goldendev.tech/tetris)
+
+[Tunnel Rush fullscreen unblocked](https://cyclonehacks-git-main-cyclonehacks.vercel.app/Pages/games/tunnelrush/)
