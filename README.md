@@ -6,7 +6,11 @@ Hello, My name is Henry, you might know me from our middle school. I made this w
 
 [Slope fullscreen unblocked](https://slope-game.hankypoo71.repl.co/)
 
+![Screenshot 2022-11-18 7 40 22 PM](https://user-images.githubusercontent.com/100436822/202828095-f72d23b9-07da-4983-b584-4207aa066305.png)
+
 [Tetris fullscreen unblocked](https://goldendev.tech/tetris)
+
+![Screenshot 2022-11-18 7 43 43 PM](https://user-images.githubusercontent.com/100436822/202828249-241b6a2d-ab3d-4b6b-9557-6d7a242e38de.png)
 
 [Tunnel Rush fullscreen unblocked](https://cyclonehacks-git-main-cyclonehacks.vercel.app/Pages/games/tunnelrush/)
 
